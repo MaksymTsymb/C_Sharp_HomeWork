@@ -80,7 +80,7 @@ namespace Tsymbal_Maksym_HomeWork_2
         {
             Stack<char> myStack = new Stack<char>();
 
-            myStack.Push('l');
+            myStack.Push('|');
             myStack.Push('2');
             myStack.Push('3');
             myStack.Push('4');

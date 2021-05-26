@@ -26,5 +26,20 @@ namespace Tsymbal_Maksym_HomeWork_2._3
         {
 
         }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void connect_button_Click(object sender, EventArgs e)
+        {
+            //Nickname_textBox.Text
+        }
+
+        private void input_textBox_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
